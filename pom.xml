@@ -8,7 +8,9 @@
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
 	
-        <build>
+      
+	
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.mortbay.jetty</groupId>
